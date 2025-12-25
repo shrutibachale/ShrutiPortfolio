@@ -49,7 +49,7 @@ const Intro = () => {
             {/* Download Button */}
             <div className="flex justify-center lg:justify-start mt-6">
               <a
-                href="/Shruti_Bachale.pdf"
+                href="/shrutibachalecv.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 sm:px-8 py-3 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 hover:opacity-90 transition font-medium animate-pulse flex items-center gap-2"
